@@ -88,5 +88,5 @@ Sc(x,y) = x . y / ||x|| × ||y||
 The cosine similarity between two vectors is measured in ‘θ’.
 
 ### 4. Results:
-![](images/result.png)
+![](images/results.png)
 
